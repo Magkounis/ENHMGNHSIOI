@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Test" Class="DataClass_1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=SRV;Initial Catalog=Test;Persist Security Info=True;User ID=sa" SettingsObjectName="enhmgnhsioi.Properties.Settings" SettingsPropertyName="TestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.NEOAPO" Member="NEOAPOs">
+    <Type Name="NEOAPO">
+      <Column Name="KODAN" Type="System.String" DbType="Char(21) NOT NULL" CanBeNull="false" />
+      <Column Name="NEWKODAN" Type="System.String" DbType="Char(21) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GNHSIOI" Member="GNHSIOIs">
+    <Type Name="GNHSIOI">
+      <Column Name="KODAN" Type="System.String" DbType="Char(21) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PRO" Type="System.String" DbType="Char(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="GNHKODAN" Type="System.String" DbType="Char(21) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="recno" AutoSync="Never" Type="System.Decimal" DbType="Decimal(20,0) NOT NULL" IsReadOnly="true" IsDbGenerated="true" CanBeNull="false" UpdateCheck="Always" />
+      <Column Name="MARKSOURCE" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

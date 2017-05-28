@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\bin\Debug\enhmgnhsioi.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\bin\Debug\enhmgnhsioi.exe
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\bin\Debug\enhmgnhsioi.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\obj\x86\Debug\enhmgnhsioi.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\obj\x86\Debug\enhmgnhsioi.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\obj\x86\Debug\enhmgnhsioi.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\obj\x86\Debug\enhmgnhsioi.exe
+c:\users\administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\obj\x86\Debug\enhmgnhsioi.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\enhmgnhsioi\enhmgnhsioi\obj\x86\Debug\enhmgnhsioi.csprojResolveAssemblyReference.cache
